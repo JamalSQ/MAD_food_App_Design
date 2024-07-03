@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_gradientoverlaycornerrounded.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\gradientoverlaycornerrounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_edit.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_wing.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\wing.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no13.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no13.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_circular_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_circular_142.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_umar52.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_umar52.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_order_preparing.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_preparing.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_order_delivering.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_delivering.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ramanremovebg.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ramanremovebg.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_ic_icon_eye.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/ic_icon_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_notificationmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\notificationmz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_housemz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\housemz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_umar_49.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_49.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no12.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no12.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_order_review.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_order_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_dial.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_dial.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_map.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_baseline_castle_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\baseline_castle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_custom_btn_bg_outline.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\custom_btn_bg_outline.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_food_item_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_food_item_142.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_square_borders_142.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/square_borders_142.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no15.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no15.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_rv_chat_fragment_sample_layout.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\rv_chat_fragment_sample_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_bowlofbiryani.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\bowlofbiryani.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_outline_compass_calibration_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\outline_compass_calibration_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_chat_persona.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_chat_persona.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_topwbar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\topwbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_twocornerpadding.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\twocornerpadding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_btm_sheet_confirm_location.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_btm_sheet_confirm_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_drink.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_togglemz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\togglemz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_favourite.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_voucher.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_voucher.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_bottom_rounded_borders_142.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/bottom_rounded_borders_142.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no08.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no08.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_profile2.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\profile2.jpeg"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_home.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_favourite.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_recommended_option.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_recommended_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_six.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_six.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_searchtags.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\searchtags.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_circle_plus.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_circle_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_barbegue.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\barbegue.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_smallcornerradius.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\smallcornerradius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_five.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_page33_btn_bg.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\page33_btn_bg.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_placeholder_square_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_placeholder_square_142.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no09.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no09.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_add_notes_sample_layout.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\add_notes_sample_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_edittext_custom_bg.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/edittext_custom_bg.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_umar_51.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_51.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_add_new_chat.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_add_new_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_horizontal_line_shape.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\horizontal_line_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_drinksrmg.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\drinksrmg.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no10.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no10.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_compass.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_compass.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_target_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_target_142.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/navigation_navigation.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_umar_52.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_52.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_outline_home_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\outline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_accountmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\accountmz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_img_pizza.jpg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\img_pizza.jpg"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_security_2_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\security_2_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_burger.jpg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\burger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_linkaja_logo.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\linkaja_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_edit_order_btm_sheet.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_edit_order_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_umar_45_1.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\umar_45_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_delivery_truck.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_delivery_truck.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_umar_50.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_50.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_notes.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_round_shape.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\round_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_umar_51.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_51.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_attach_file.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_attach_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_contactimg.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\contactimg.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_umar_49.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_49.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_b_s_vadd_note.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_b_s_vadd_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_btm_sheet_payment_method.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_btm_sheet_payment_method.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_map_placeholder_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_map_placeholder_142.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_umar_50.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_outline_chat_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\outline_chat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_fic_plus.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\fic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_beeffry.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\beeffry.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_four.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_baseline_arrow_outward_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\baseline_arrow_outward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_profilef.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\profilef.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_custom_bottom_sheet_border.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\custom_bottom_sheet_border.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_third_screen.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_third_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_content_prac_set.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\content_prac_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_second2.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_security_user_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\security_user_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_empty_cart.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_empty_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ovo_logof.jpg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ovo_logof.jpg"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_order_processing.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_order_processing.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_view_pager.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_view_pager.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no11.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_homefragment.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_homefragment.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_bottom_button_142.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/bottom_button_142.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_edit2.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_edit2.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg07.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg07.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_il_placeholder.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\il_placeholder.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_delivery_history.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_delivery_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_biryani.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\biryani.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_et_background_payment1.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\et_background_payment1.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_bottomnav.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_bottomnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_foodburgersauce.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\foodburgersauce.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_delivery_man.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_delivery_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_profilepic.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\profilepic.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_img1.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/img1.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_maps.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_food.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_outline_event_note_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\outline_event_note_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_contactimg3.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\contactimg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_settingmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\settingmz.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_ic_circular_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/ic_circular_142.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_profilepicrmg.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\profilepicrmg.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_onboarding.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_topback.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\topback.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_foodplate.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\foodplate.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_change_payment_method_38.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_change_payment_method_38.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_topp.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\topp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_chat_message_custom_bg.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\chat_message_custom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_search_food.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_search_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_shopping_cart.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_dana_logo.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\dana_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_logoutmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\logoutmz.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_img2.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/img2.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_outline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\outline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_send_message.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_send_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_burgerremovebg.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\burgerremovebg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_searchbar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_cirlce_location.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_cirlce_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_location_fragment_host.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_location_fragment_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_added_notes.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_added_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_text_bar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\text_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_round_send_btn.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\round_send_btn.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_filesmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\filesmz.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_your_cart.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_your_cart.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_ic_star_outlined_142.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/ic_star_outlined_142.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_search_foood2.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_search_foood2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_raman.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\raman.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_internet.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_passwordmz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\passwordmz.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_first_screen.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_first_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_voucher_promos_33.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_voucher_promos_33.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_gradientoverlay.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\gradientoverlay.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_delivered.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_delivered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_wifimz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\wifimz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_bottomnav.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_bottomnav.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_top_rounded_borders_142.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/top_rounded_borders_142.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_your_favourite.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_your_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_rounded_card_bg.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\rounded_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_umar_52.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_52.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_pizza.jpg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_image_placeholder.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\image_placeholder.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_search.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/search.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_junkfood.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\junkfood.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_location.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_edit_notes.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_edit_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_edit_location_43.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_edit_location_43.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_seven.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_seven.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_headphonemz.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\headphonemz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_payment2_34.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_payment2_34.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_splash.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_select_current_location_40.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_select_current_location_40.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_homefragment.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_homefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_bottom_sheet_payment_details.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_bottom_sheet_payment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_nine.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_nine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_addnote_frag_et.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\addnote_frag_et.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_image_chat_142.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/image_chat_142.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_first2.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_payment_methods_list_sample_layout_38.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\payment_methods_list_sample_layout_38.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_activity_reg_pg_no14.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no14.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_round_btn_bg.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\round_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/drawable_img3.png.flat",
+        "source": "com.example.mobileappproject.app-main-47:/drawable/img3.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_ic_flat_minus.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\ic_flat_minus.png"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mobileappproject.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_second_screen.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_second_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_tagsearch.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_tagsearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_fifty_eight.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_eight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_event_nots.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_event_nots.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_payment_host.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_payment_host.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-debug-45:/layout_fragment_order_processing.xml.flat",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_processing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-debug-45:\\layout_activity_add_new_chat.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_add_new_chat.xml"
+    }
+]

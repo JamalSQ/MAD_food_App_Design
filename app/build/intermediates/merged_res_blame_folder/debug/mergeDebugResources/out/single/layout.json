@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_four.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_compass.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_compass.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_order_processing.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_order_processing.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg07.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg07.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_bottomnav.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_bottomnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_payment2_34.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_payment2_34.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\rv_chat_fragment_sample_layout.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\rv_chat_fragment_sample_layout.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_order_processing.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_processing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_event_nots.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_event_nots.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_bottom_sheet_payment_details.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_bottom_sheet_payment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_location_fragment_host.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_location_fragment_host.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_favourite.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_five.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_five.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no12.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_drink.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_first2.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_splash.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_third_screen.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_third_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_your_cart.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_your_cart.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no13.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_voucher_promos_33.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_voucher_promos_33.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_maps.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/umar_49.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_49.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_nine.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_nine.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_second_screen.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_second_screen.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_delivery_history.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_delivery_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\umar_50.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_homefragment.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_homefragment.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/umar_51.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_51.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_food.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_btm_sheet_confirm_location.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_btm_sheet_confirm_location.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_bottomnav.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_bottomnav.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_order_review.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_order_review.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no09.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no09.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\umar_52.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_52.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\add_notes_sample_layout.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\add_notes_sample_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_btm_sheet_payment_method.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_btm_sheet_payment_method.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no14.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no14.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_add_new_chat.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_add_new_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_edit_location_43.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_edit_location_43.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_search_foood2.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_search_foood2.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no11.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_umar52.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_umar52.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_b_s_vadd_note.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_b_s_vadd_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\umar_49.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_49.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_six.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_six.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\umar_51.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\umar_51.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no15.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no15.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no10.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no10.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_first_screen.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_first_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_search_food.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_search_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\payment_methods_list_sample_layout_38.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\payment_methods_list_sample_layout_38.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/umar_50.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_eight.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_eight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\content_prac_set.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\content_prac_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_empty_cart.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_empty_cart.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_reg_pg_no08.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_reg_pg_no08.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_favourite.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_your_favourite.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_your_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_home.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_tagsearch.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_tagsearch.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_onboarding.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_add_new_chat.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_add_new_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_edit_order_btm_sheet.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_edit_order_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_select_current_location_40.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_select_current_location_40.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/activity_delivered.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/activity_delivered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_added_notes.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_added_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_order_preparing.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_preparing.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_view_pager.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_fifty_seven.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_fifty_seven.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_change_payment_method_38.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_change_payment_method_38.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_recommended_option.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_recommended_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/umar_52.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/umar_52.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_order_delivering.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_order_delivering.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-mergeDebugResources-44:\\layout\\activity_payment_host.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.mobileappproject.app-main-47:\\layout\\activity_payment_host.xml"
+    },
+    {
+        "merged": "com.example.mobileappproject.app-mergeDebugResources-44:/layout/fragment_homefragment.xml",
+        "source": "com.example.mobileappproject.app-main-47:/layout/fragment_homefragment.xml"
+    }
+]

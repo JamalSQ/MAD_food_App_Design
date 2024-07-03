@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="FadedColor">#A89892</color>
+    <color name="PrimaryAppColor">#FF6B15</color>
+    <color name="PrimaryAppColorAccent">#FF6B15</color>
+    <color name="PrimaryAppColorDark">#FF6B15</color>
+    <color name="black">#FF000000</color>
+    <color name="btn_color_Accent">#2196F3</color>
+    <color name="btn_color_primary">#FF5722</color>
+    <color name="color_background"> #FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_divider">#F2F2F2</color>
+    <color name="color_gray">#A19C9C</color>
+    <color name="color_grid_border">#E5E7E9</color>
+    <color name="color_primary">#FF6B15</color>
+    <color name="color_text">#212121</color>
+    <color name="color_text_1">#697586</color>
+    <color name="color_text_2">#5E6978</color>
+    <color name="fade_black">#B2000000</color>
+    <color name="fade_gray_color">#75CCCED1</color>
+    <color name="gradient_color">#37FF5722</color>
+    <color name="green">#00EF0A</color>
+    <color name="icon_bg_color">#FFA501</color>
+    <color name="lessFadedColor">#BDB0AB</color>
+    <color name="main_color">#FAFAFA</color>
+    <color name="mehroon_color">#A82822</color>
+    <color name="outline_primary_color">#FFFFFF</color>
+    <color name="primary_color">#FF5722</color>
+    <color name="rbColor">#FF6B15</color>
+    <color name="red">#FF0000</color>
+    <color name="searchbar_color">#FFFFFF</color>
+    <color name="searchtag_color">#12FF5722</color>
+    <color name="secondary_color">#607D8B</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="bottom_button_border_thickness">2dp</dimen>
+    <dimen name="bottom_button_corner_radius">10dp</dimen>
+    <dimen name="bottom_button_width">150dp</dimen>
+    <dimen name="grid_border_thickness">3dp</dimen>
+    <dimen name="grid_corner_radius">30dp</dimen>
+    <dimen name="larger_width_height">50dp</dimen>
+    <dimen name="margin_inner">20dp</dimen>
+    <dimen name="normal_width_height">30dp</dimen>
+    <dimen name="order_processing_selected_ic">50dp</dimen>
+    <dimen name="order_processing_unselected_ic">30dp</dimen>
+    <dimen name="padding_delivery_history_screen">20dp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <string name="Dot">......</string>
+    <string name="Email">Email</string>
+    <string name="Email_has_been_used">Email has been used</string>
+    <string name="Enter_your_registered_email_to_sign_in">Enter your registered email to sign in</string>
+    <string name="Forgot_Password">Forgot Password?</string>
+    <string name="FullName">FullName</string>
+    <string name="Oops_your_password_is_incorrect">Oops,your password is incorrect</string>
+    <string name="Or">Or</string>
+    <string name="Password">Password</string>
+    <string name="Please_fill_in_a_few_details_below">Please fill in a few details below</string>
+    <string name="Register">Register</string>
+    <string name="Register_">Register </string>
+    <string name="Register_with_google">Register with google</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="Sign_In_">Sign In</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Sign_in_with_google">Sign in with google</string>
+    <string name="Udin_Samsudin">Udin Samsudin</string>
+    <string name="Udin_petot">Udin petot</string>
+    <string name="Udin_petot_gmail_com">Udinpetot@gmail.com</string>
+    <string name="_1_2km">1.2KM</string>
+    <string name="_4_3">4.3</string>
+    <string name="_7_9min">7-9min</string>
+    <string name="app_name">MobileAppProject</string>
+    <string name="cheese">Cheese</string>
+    <string name="chicken" translatable="false">Chicken</string>
+    <string name="delivered_app_name">Jajan App</string>
+    <string name="delivered_review_label">It is Disappointing, 5 is awesome</string>
+    <string name="delivered_status">Delivered</string>
+    <string name="delivery_history_bottom_button">Download Bill</string>
+    <string name="delivery_history_code">T–12–23suhs</string>
+    <string name="delivery_history_date">05/10/22</string>
+    <string name="delivery_history_detail_txt">Delivery Detail</string>
+    <string name="delivery_history_location">State Pak maman, Kemang</string>
+    <string name="delivery_history_location_label">Resto Location</string>
+    <string name="delivery_history_order_item_1">Fenfriece</string>
+    <string name="delivery_history_order_item_1_quantity">1</string>
+    <string name="delivery_history_order_item_2">ayam gorang</string>
+    <string name="delivery_history_order_item_2_quantity">1</string>
+    <string name="delivery_history_order_title">Order detail</string>
+    <string name="delivery_history_payment_details_delivery_fee">Delivery fee</string>
+    <string name="delivery_history_payment_details_delivery_fee_amount">10.000</string>
+    <string name="delivery_history_payment_details_discounts">Discount</string>
+    <string name="delivery_history_payment_details_discounts_amount">-10.000</string>
+    <string name="delivery_history_payment_details_packaging_fee">Packaging Fee</string>
+    <string name="delivery_history_payment_details_packaging_fee_amount">2.000</string>
+    <string name="delivery_history_payment_details_price">Price</string>
+    <string name="delivery_history_payment_details_price_amount">30.000</string>
+    <string name="delivery_history_payment_details_title">Payment details</string>
+    <string name="delivery_history_payment_details_total_payment">Total payment</string>
+    <string name="delivery_history_payment_details_total_payment_amount">32.000</string>
+    <string name="delivery_history_payment_method">Paid with Link Aja By Sheila</string>
+    <string name="delivery_history_target_label">Discover Location</string>
+    <string name="delivery_history_target_location">Jl. kemang raya no</string>
+    <string name="delivery_history_title">Delivery History</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="food_delivery_status">Food Delivered</string>
+    <string name="food_enjoy">Enjoy your meal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_quantity">Item quantity</string>
+    <string name="kfc_kemangs">KFC Kemangs</string>
+    <string name="kfc_pejetan">KFC Pejetan</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="meat" translatable="false">Meat</string>
+    <string name="next">Next</string>
+    <string name="order">Order</string>
+    <string name="order_confirmed">Confirmed your order</string>
+    <string name="order_delivering">Delivering Your Order</string>
+    <string name="order_delivering_on_way">order is on its way to your location</string>
+    <string name="order_food_ready">Food is ready</string>
+    <string name="order_preparing">Preparing Your Order</string>
+    <string name="order_preparing_time">wait for a minute</string>
+    <string name="order_processing">Process Ordering</string>
+    <string name="order_processing_bottom_button">Cancel</string>
+    <string name="order_quantity">1</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="pizza_mashroum_sauce" translatable="false">Pizza Mashroum Sauce</string>
+    <string name="previous">Previous</string>
+    <string name="review_screen_subtitle">we delivered your food in 25 min</string>
+    <string name="review_screen_title">Some swift delivery</string>
+    <string name="rp1">+Rp1</string>
+    <string name="rp2_000">+Rp2.000</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_fifty_nine">Fifty_Nine</string>
+    <string name="title_activity_prac_set">Prac_set</string>
+    <string name="topping" translatable="false">Topping</string>
+    <string name="tuna_melt">Tuna Melt</string>
+    <string name="tv_Dont_account">Don\'t have an account ?</string>
+    <string name="tv_becomes">Becomes</string>
+    <string name="tv_card_title">Sate Kemang...</string>
+    <string name="tv_create_account">Create account </string>
+    <string name="tv_deal_around">Deals around you</string>
+    <string name="tv_did_you_mean">Did you mean</string>
+    <string name="tv_distance">1.2 Km</string>
+    <string name="tv_ecnomical">Ecnomical</string>
+    <string name="tv_email">Enter E-mail</string>
+    <string name="tv_matching_restro">Metching Restro\'s</string>
+    <string name="tv_name">Enter Name</string>
+    <string name="tv_order">Order Again</string>
+    <string name="tv_others">Others</string>
+    <string name="tv_passward">Enter Password</string>
+    <string name="tv_popular_search">Popular Searches</string>
+    <string name="tv_price">Rp30.000.-</string>
+    <string name="tv_promo">Promo</string>
+    <string name="tv_rating">4.3</string>
+    <string name="tv_recomed">Recomended for you</string>
+    <string name="tv_save_15">Save 15%</string>
+    <string name="tv_search_history">Your search history</string>
+    <string name="tv_see_all">see all</string>
+    <string name="tv_stayfrugal">#stayfrugal</string>
+    <string name="tv_time">7-9 min</string>
+    <string name="tv_top_rate">Top rate by other foodies</string>
+    <style name="AppTheme.RadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:colorControlNormal">@color/rbColor</item>
+    </style>
+    <style name="Base.Theme.MobileAppProject" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="android:statusBarColor">@color/white</item>
+
+    </style>
+    <style name="CustomToolbarTextStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+    <style name="DefaultButtonStyle" parent="Widget.AppCompat.Button">
+        
+        <item name="android:backgroundTint">@color/PrimaryAppColor</item>
+        
+    </style>
+    <style name="PaymentHostActivity" parent="Theme.Material3.Light.NoActionBar">
+        
+                <item name="android:buttonStyle">@style/DefaultButtonStyle</item>
+        <item name="colorPrimary">@color/PrimaryAppColor</item>
+        <item name="colorPrimaryDark">@color/PrimaryAppColorDark</item>
+        <item name="colorAccent">@color/PrimaryAppColorAccent</item>
+    </style>
+    <style name="Theme.MobileAppProject" parent="Base.Theme.MobileAppProject"/>
+</resources>
